@@ -1,3 +1,3 @@
-# Polinización en la escuela :flower: :bee:
+# Polinización en la escuela :hibiscus: :bee:
 
 Llevando la polinización a la escuela
