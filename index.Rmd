@@ -1,7 +1,5 @@
 ---
 title: "Polinización en la escuela"
-author: "Francisco E. Fonturbel"
-date: "1/14/2022"
 output: html_document
 ---
 
