@@ -1,5 +1,6 @@
 ---
 title: "Polinización en la escuela"
+theme: jekyll-theme-architect
 output: html_document
 ---
 
