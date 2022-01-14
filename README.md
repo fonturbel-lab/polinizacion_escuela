@@ -4,6 +4,17 @@
 
 En el marco del proyecto [SURPASS2](https://bee-surpass.org), desarrollamos un marco de trabajo en **Ciencia ciudadana** para acercar a la gente al mundo de los polinizadores y comprender la importancia de la polinización en nuestra vida cotidiana. En este sentido, decidimos crear este material para introducir a profesores y estudiantes de enseñanza media en el tema mediante actividades lúdicas que estimulen el aprendizaje de conceptos clave mediante juegos y actividades al aire libre.
 
+
+### Contenido
+
+Este repositorio contiene cinco documentos (los que se pueden encontrar dentro la carpeta _material_ de este repositorio):
+
+(1) Guia_trabajo.docx
+(2) Indicadores.docx
+(3) Rubrica_docente.docx
+(4) Orientacion_docente.pptx
+(5) Sesiones.pptx
+
 El paquete completo puede ser descargado [acá](./paquete.zip) en forma de un archivo zip.
 
 
