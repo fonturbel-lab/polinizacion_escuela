@@ -9,8 +9,6 @@ En el marco del proyecto [SURPASS2](https://bee-surpass.org), desarrollamos un m
 
 Este trabajo fue financiado por la Agencia Nacional de Investigación y Desarrollo ([ANID](https://www.anid.cl)), mediante el proyecto de Cooperación Internacional **NE/S011870/1**, ejecutado en Chile 🇨🇱 por la Pontificia Universidad Católica de Valparaíso, la Universidad de La Frontera, la Universidad Mayor, la Universidad de Los Lagos, y la Universidad Metropolitana de Ciencias de la Educación.
 
-![](imagenes/anid.png)
-
 
 ### Importante
 
