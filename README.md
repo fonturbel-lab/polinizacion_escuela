@@ -26,7 +26,7 @@ El paquete completo puede ser descargado [acá](./paquete.zip) en forma de un ar
 
 ### Contribuciones a este material
 
-Dado que la ciencia y la enseñanza son dinámicas y están en constante cambio, 
+Dado que la ciencia y la enseñanza son dinámicas y están en constante cambio, estamos abiertos a recibir contribuciones a este material de parte de terceros. Para ello, debe realizar una copia del repositorio a su cuenta de GitHub usando la función _Fork_ y posteriormente enviar la contribución mediante _Pull request_. Las contribuciones no solicitadas serán revisadas antes de ser incorporadas.
 
 
 ### Financiamiento
