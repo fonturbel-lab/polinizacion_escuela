@@ -10,9 +10,13 @@ En el marco del proyecto [SURPASS2](https://bee-surpass.org), desarrollamos un m
 Este repositorio contiene cinco documentos (los que se pueden encontrar dentro la carpeta _material_ de este repositorio):
 
 (1) Guia_trabajo.docx
+
 (2) Indicadores.docx
+
 (3) Rubrica_docente.docx
+
 (4) Orientacion_docente.pptx
+
 (5) Sesiones.pptx
 
 El paquete completo puede ser descargado [acá](./paquete.zip) en forma de un archivo zip.
