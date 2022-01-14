@@ -2,6 +2,7 @@
 
 ## Llevando la polinización a la escuela :woman_student:
 
+[![DOI](https://zenodo.org/badge/447651691.svg)](https://zenodo.org/badge/latestdoi/447651691)
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) ![License](https://img.shields.io/badge/License-CC%20BY%2D-SA%204.0-lightgrey.svg)
 
 En el marco del proyecto [SURPASS2](https://bee-surpass.org), desarrollamos un marco de trabajo en **Ciencia ciudadana** para acercar a la gente al mundo de los polinizadores y comprender la importancia de la polinización en nuestra vida cotidiana. En este sentido, decidimos crear este material para introducir a profesores y estudiantes de enseñanza media en el tema mediante actividades lúdicas que estimulen el aprendizaje de conceptos clave mediante juegos y actividades al aire libre.
