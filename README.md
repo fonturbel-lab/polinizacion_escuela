@@ -11,15 +11,15 @@ El material fue desarrollado por **Javiera Villarroel Rojas**, profesora de biol
 
 Este repositorio contiene cinco documentos (los que se pueden encontrar dentro la carpeta _material_ de este repositorio):
 
-(1) Guia_trabajo.docx
+(1) **Guia_trabajo.docx** - Formulario para completar los datos relacionados con los trabajos a desarrollar y sus objetivos.
 
-(2) Indicadores.docx
+(2) **Indicadores.docx** - Indicadores de aprendizaje asociados al currículo escolar de enseñanza media.
 
-(3) Rubrica_docente.docx
+(3) **Rubrica_docente.docx** - Pauta de evaluación grupal e individual.
 
-(4) Orientacion_docente.pptx
+(4) **Orientacion_docente.pptx** - Presentación autoexplicativa del material y las actividades a realizar, dirigida a los docentes.
 
-(5) Sesiones.pptx
+(5) **Sesiones.pptx** - Presentación para los estudiantes.
 
 El paquete completo puede ser descargado [acá](./paquete.zip) en forma de un archivo zip.
 
