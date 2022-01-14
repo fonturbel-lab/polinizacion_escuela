@@ -24,6 +24,11 @@ Este repositorio contiene cinco documentos (los que se pueden encontrar dentro l
 El paquete completo puede ser descargado [acá](./paquete.zip) en forma de un archivo zip.
 
 
+### ¿Cómo usar este material? :brain:
+
+EL primer paso es decargar el material. Una vez hecho esto, los profesores deben revisar los indicadores y el material de orientación docente.
+
+
 ### Contribuciones a este material :handshake:
 
 Dado que la ciencia y la enseñanza son dinámicas y están en constante cambio, estamos abiertos a recibir contribuciones a este material de parte de terceros. Para ello, debe realizar una copia del repositorio a su cuenta de GitHub usando la función _Fork_ y posteriormente enviar la contribución mediante _Pull request_. Las contribuciones no solicitadas serán revisadas antes de ser incorporadas.
