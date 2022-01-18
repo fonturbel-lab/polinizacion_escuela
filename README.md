@@ -7,12 +7,15 @@
 
 En el marco del proyecto [SURPASS2](https://bee-surpass.org), desarrollamos un marco de trabajo en **Ciencia ciudadana** para acercar a la gente al mundo de los polinizadores y comprender la importancia de la polinización en nuestra vida cotidiana. En este sentido, decidimos crear este material para introducir a profesores y estudiantes de enseñanza media en el tema mediante actividades lúdicas que estimulen el aprendizaje de conceptos clave mediante juegos y actividades al aire libre.
 
+
+![](imagenes/bee_drawing.png)
+
+
 El material fue desarrollado por **Javiera Villarroel Rojas**, profesora de biología y ciencias naturales, asociada a la Pontificia Universidad Católica de Valparaíso en el marco del proyecto NE/S011870/1. El proceso de desarrollo del material contó con la colaboración de Maureen Murúa (Universidad Mayor), Luis Flores (UMCE), y Lorena Vieli (Universidad de La Frontera). La coordinación general y elaboración de este repositorio estuvo a cargo de [Francisco E. Fontúrbel](https://github.com/fonturbel).
 
 
 **[VER COMO PÁGINA WEB](https://fonturbel-lab.github.io/polinizacion_escuela/)** :desktop_computer:
 
-![](imagenes/bee_drawing.png)
 
 ### Contenido :books:
 
