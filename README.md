@@ -19,7 +19,7 @@ Este repositorio contiene cinco documentos (los que se pueden encontrar dentro l
 
 (1) **Guia_trabajo.docx** - Formulario para completar los datos relacionados con los trabajos a desarrollar y sus objetivos.
 
-(2) **Indicadores.docx** - Indicadores de aprendizaje asociados al currículo escolar de enseñanza media.
+(2) **Indicadores.docx** - Indicadores de aprendizaje asociados al currículo nacional de enseñanza media.
 
 (3) **Rubrica_docente.docx** - Pauta de evaluación grupal e individual.
 
@@ -32,7 +32,7 @@ El paquete completo puede ser descargado [acá](./paquete.zip) en forma de un ar
 
 ### ¿Cómo usar este material? :brain:
 
-El primer paso es decargar el material. Una vez hecho esto, los profesores deben revisar los indicadores y el material de orientación docente. Siéntanse libres de adaptar el material a las necesidades de su curso y al contexto donde se realizarán las actividades. Particularmente, la presentación para los estudiantes contiene una serie de diapositivas de ejemplo sobre polinizadores para la zona norte (diapositivas 5 a 7), centro (diapositivas 8 a 13) y sur (diapositivas 14 a 18) de Chile; para cada caso, se deben conservar solamente las diapositivas apropiadas para el lugar donde se realiza la actividad, y eliminar las de las otras zonas.
+El primer paso es descargar el material. Una vez hecho esto, los profesores deben revisar los indicadores y el material de orientación docente. Siéntanse libres de adaptar el material a las necesidades de su curso y al contexto donde se realizarán las actividades. Particularmente, la presentación para los estudiantes contiene una serie de diapositivas de ejemplo sobre polinizadores para la zona norte (diapositivas 5 a 7), centro (diapositivas 8 a 13) y sur (diapositivas 14 a 18) de Chile; para cada caso, se deben conservar solamente las diapositivas apropiadas para el lugar donde se realiza la actividad, y eliminar las de las otras zonas.
 
 
 ### Contribuciones a este material :handshake:
