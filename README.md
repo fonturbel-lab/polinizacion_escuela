@@ -12,6 +12,7 @@ El material fue desarrollado por **Javiera Villarroel Rojas**, profesora de biol
 
 **[VER COMO PÁGINA WEB](https://fonturbel-lab.github.io/polinizacion_escuela/)** :desktop_computer:
 
+![](imagenes/bee_drawing.png)
 
 ### Contenido :books:
 
