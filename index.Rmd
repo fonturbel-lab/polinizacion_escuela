@@ -45,7 +45,7 @@ El paquete completo puede ser descargado [acá](./paquete.zip) en forma de un ar
 
 ### ¿Cómo usar este material?
 
-El primer paso es descargar el material. Una vez hecho esto, los profesores deben revisar los indicadores y el material de orientación docente. Siéntanse libres de adaptar el material a las necesidades de su curso y al contexto donde se realizarán las actividades. Particularmente, la presentación para los estudiantes contiene una serie de diapositivas de ejemplo sobre polinizadores para la zona norte (diapositivas 5 a 7), centro (diapositivas 8 a 13) y sur (diapositivas 14 a 18) de Chile; para cada caso, se deben conservar solamente las diapositivas apropiadas para el lugar donde se realiza la actividad, y eliminar las de las otras zonas.
+El primer paso es descargar el material. Una vez hecho esto, las y los profesores deben revisar los indicadores y el material de orientación docente. Siéntanse libres de adaptar el material a las necesidades de su curso y al contexto donde se realizarán las actividades. Particularmente, la presentación para los estudiantes contiene una serie de diapositivas de ejemplo sobre polinizadores para la zona norte (diapositivas 5 a 7), centro (diapositivas 8 a 13) y sur (diapositivas 14 a 18) de Chile; para cada caso, se deben conservar solamente las diapositivas apropiadas para el lugar donde se realiza la actividad, y eliminar las de las otras zonas.
 
 
 ### Contribuciones a este material
